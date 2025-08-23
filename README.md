@@ -94,10 +94,10 @@ SELECT Name, Salary FROM Employees ORDER BY Salary DESC LIMIT 1;
 
 ##  Learning Outcomes  ##
 
-1. Hands-on experience with **AWS RDS & EC2**
-2. Designed relational schema with **primary & foreign keys**
-3. Executed **SQL queries for CRUD & analytics**
-4. Deployed a **cloud-based employee management system**
+1. Hands-on experience with AWS RDS & EC2
+2. Designed relational schema with primary & foreign keys
+3. Executed SQL queries for CRUD & analytics
+4. Deployed a cloud-based employee management system
 
 
 
